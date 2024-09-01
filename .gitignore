@@ -6,3 +6,6 @@
 .vscode
 .clion
 .DS_Store
+
+# GDExtension
+godot-cpp/
