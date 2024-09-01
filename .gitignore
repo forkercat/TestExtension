@@ -5,7 +5,11 @@
 .vs
 .vscode
 .clion
+.idea
 .DS_Store
 
 # GDExtension
 godot-cpp/
+*.os
+.sconsign.dblite
+compile_commands.json
